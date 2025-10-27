@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+*.pkl
+*.log
+mlruns/
+.env
+.ipynb_checkpoints/
